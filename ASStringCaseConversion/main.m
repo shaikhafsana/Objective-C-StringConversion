@@ -9,6 +9,7 @@
 #import <Foundation/Foundation.h>
 void upperCase(char String[]);
 void lowerCase(char String[]);
+void checkcase(char String[]);
 char *pointer;
 
 int main(int argc, const char * argv[]) {
